@@ -28,6 +28,6 @@ This C++ project implements a high-performance text query engine for structured 
 - Standard C++ library
 
 **Example usage:**
-
+![example](images/query_example.png)
 **Author:** 
 Joakim Wiksten
