@@ -5,7 +5,7 @@ Welcome!
 This repository contains personal projects I created during my **Computer Science & Engineering studies** at Umeå University. Projects showcase skills in **C/C++, Python, Java, algorithms, and databases**.  
 
 
-> Each project folder contains a README with setup instructions, examples, and screenshots.  
+> Each project folder contains a README with setup instructions, and a description of the project.  
 
 ---
 
