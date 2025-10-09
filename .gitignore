@@ -71,5 +71,6 @@ Thumbs.db
 *.sublime-workspace
 *.sublime-project
 
-# Windows Zone Identifier
-*.Zone.Identifier
+# Windows Zone Identifier ADS
+*:Zone.Identifier
+*:Zone.Identifier:Zone.Identifier
