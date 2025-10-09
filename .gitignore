@@ -1,0 +1,72 @@
+# ==========================
+# C++ / C
+# ==========================
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dSYM/
+*.stackdump
+
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.mypy_cache/
+*.env
+.env/
+venv/
+*.egg-info/
+
+# ==========================
+# Java
+# ==========================
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+
+# ==========================
+# Node.js / JavaScript
+# ==========================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ==========================
+# General / OS files
+# ==========================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+.idea/
+.vscode/
+*.bak
+*.old
+*.orig
+
+# ==========================
+# Archives / Packages
+# ==========================
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ==========================
+# Backup / Temporary files
+# ==========================
+*~
+*.sublime-workspace
+*.sublime-project
