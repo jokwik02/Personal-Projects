@@ -70,3 +70,6 @@ Thumbs.db
 *~
 *.sublime-workspace
 *.sublime-project
+
+# Windows Zone Identifier
+*.Zone.Identifier
