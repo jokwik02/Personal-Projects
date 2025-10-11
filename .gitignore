@@ -29,7 +29,6 @@ venv/
 # Java
 # ==========================
 *.class
-*.jar
 *.war
 *.ear
 *.iml
