@@ -33,6 +33,7 @@ venv/
 *.ear
 *.iml
 *.log
+*.MF
 
 # ==========================
 # Node.js / JavaScript
