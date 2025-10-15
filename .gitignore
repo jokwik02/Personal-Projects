@@ -23,6 +23,7 @@ __pycache__/
 *.env
 .env/
 venv/
+.venv/
 *.egg-info/
 
 # ==========================
