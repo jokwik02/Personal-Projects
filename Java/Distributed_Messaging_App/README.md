@@ -34,7 +34,7 @@ A separate **Naming Service** is used to facilitate group creation and discovery
 - **Git**
 
 ## Repository
-[GitHub Repository](https://github.com/algotgraner/GCom)
+[GCOM](https://github.com/algotgraner/GCom)
 
 ## Authors
 Joakim Wiksten, Algot Eriksson Graner and Jonatan Westling
