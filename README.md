@@ -2,7 +2,7 @@
 
 Welcome!
 
-This repository contains personal projects I created during my **Computer Science & Engineering studies** at Umeå University. Projects showcase skills in **C/C++, Python, Java, algorithms, and databases**.  
+This repository contains personal projects I created during my **Computer Science & Engineering studies** at Umeå University. Projects showcase skills in **C/C++, Python, Java, algorithms, distributed systems and databases**.  
 
 
 > Each project folder contains a README with setup instructions, and a description of the project.  
@@ -11,10 +11,10 @@ This repository contains personal projects I created during my **Computer Scienc
 
 ## About Me
 
-M.Sc. student in Computer Science & Engineering, expected **June 2027**. Passionate about software engineering, databases, and solving challenging problems.  
+M.Sc. student in Computer Science & Engineering, expected **June 2027**. Passionate about software engineering, databases, distributed systems and solving challenging problems.  
 
 **Languages & Tools:** C, C++, Python, Java, JavaScript (React)  
-**Areas of Interest:** Algorithms, Databases, Distributed Systems, Machine Learning, AI  
+**Areas of Interest:** Algorithms, Databases, Distributed Systems, Machine Learning, Computer Security 
 
 ---
 
